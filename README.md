@@ -1,4 +1,9 @@
-# just-the-docs-template
+# 데이터 저장소
+
+이 사이트는 서울시립대학교 빅데이터 혁신융합 대학 사업단에서 실시하는 교육에 사용되는 데이터 저장소입니다.
+
+
+just-the-docs-template
 
 This is a *bare-minimum* template to create a [Jekyll] site that:
 
