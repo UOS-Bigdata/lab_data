@@ -13,7 +13,7 @@ nav_order: 2
 
 ## 교육 자료 
 
-- [데이터-01](./assets/data_lab_fire/fire_sample.csv)
+- [데이터-01](assets/data_lab_fire/fire_sample.csv)
 - [데이터-02](assets/data_lab_fire/fire_calling.csv)
 - [데이터-03](assets/data_lab_fire/fire_reason_summary.csv)
 - [데이터-04](assets/data_lab_fire/fire_calling_summary.csv)
