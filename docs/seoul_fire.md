@@ -20,3 +20,4 @@ nav_order: 2
 - [3일차_화재출동데이터(raw)](assets/data_lab_fire/fire.csv)
 - [3일차_화재출동데이터(sample)](assets/data_lab_fire/fire_sample.csv)
 - [3일차_지도데이터zip](assets/data_lab_fire/seoul_shp.zip)
+- [3일차_지도데이터shp](assets/data_lab_fire/seoul_shp.shp)
