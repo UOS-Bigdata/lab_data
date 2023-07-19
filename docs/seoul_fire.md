@@ -13,11 +13,10 @@ nav_order: 2
 
 ## 교육 자료 
 
-- [데이터-11](assets/data_lab_fire/fire_sample.csv)
-- [데이터-02](assets/data_lab_fire/fire_calling.csv)
-- [데이터-03](assets/data_lab_fire/fire_reason_summary.csv)
-- [데이터-04](assets/data_lab_fire/fire_calling_summary.csv)
-- [데이터-05](assets/data_lab_fire/fire_sample.xls)
-- [데이터-06](assets/data_lab_fire/fire.csv)
-- [데이터-07](assets/data_lab_fire/practice_dat.xlsx)
-- [데이터-08](assets/data_lab_fire/fire_reason.csv)
+- [1,2일차_화재출동데이터(요약)](assets/data_lab_fire/fire_calling_summary.csv)
+- [1,2일차_화재출동데이터](assets/data_lab_fire/fire_calling.csv)
+- [1,2일차_화재원인데이터(요약)](assets/data_lab_fire/fire_reason_summary.csv)
+- [1,2일차_화재원인데이터](assets/data_lab_fire/fire_reason.csv)
+- [3일차_화재출동데이터(raw)](assets/data_lab_fire/fire.csv)
+- [3일차_화재출동데이터(sample)](assets/data_lab_fire/fire_sample.csv)
+- [3일차_지도데이터zip](assets/data_lab_fire/seoul_shp.zip)
