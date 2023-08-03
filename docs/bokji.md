@@ -1,7 +1,8 @@
+---
 title: 근로복지공단 재직자 교육
 layout: default
 nav_order: 2
-
+---
 # 근로복지공단 재직자 교육
 
 ## 교재
