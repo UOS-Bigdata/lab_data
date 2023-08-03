@@ -12,4 +12,6 @@ nav_order: 2
 
 ## 교육 자료 
 
-- [add](assets/data_lab_bokji/food.csv)
+- [음식사업장](assets/data_lab_bokji/food.csv)
+- [전체사업장](assets/data_lab_bokji/total.csv)
+- [3일차 실습데이터](assets/data_lab_bokji/practice_dat.csv)
