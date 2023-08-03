@@ -14,4 +14,4 @@ nav_order: 2
 
 - [음식사업장](assets/data_lab_bokji/data_food.csv)
 - [전체사업장](assets/data_lab_bokji/dat_total.csv)
-- [3일차 실습데이터](assets/data_lab_bokji/dat_practice.csv)
+- [3일차 실습데이터](assets/data_lab_bokji/dat_practice_seoul.csv)
