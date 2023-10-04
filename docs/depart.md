@@ -17,3 +17,8 @@ nav_order: 2
 - [3일차 실습데이터-서울](assets/data_lab_bokji/dat_practice_seoul.csv)
 - [3일차 실습데이터-인천](assets/data_lab_bokji/dat_practice_incheon.csv)
 - [3일차 실습데이터-대전](assets/data_lab_bokji/dat_practice_daejeon.csv)
+
+# 평가 자료
+
+- [취업실업](assets/data_lab_depart/employment.csv)
+- [가구](assets/data_lab_depart/house_final.csv)
